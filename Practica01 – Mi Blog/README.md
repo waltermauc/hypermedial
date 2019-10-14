@@ -19,7 +19,7 @@ ACTIVIDADES DESARROLLADAS
 
 8.	La barra de navegación esta mediante hipervínculos y no con imágenes de hipervínculos.
 
-9.		Mediante la página e W3C validator puedo comprobar que no posee errores en el código de mi página web.
+9.	Mediante la página e W3C validator puede comprobar que la pagina web no tiene ningún error de escritura ni mal uso de etiquetas
  
  
 
